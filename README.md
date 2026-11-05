@@ -20,8 +20,6 @@ Designing ETL and data transformation workflows.
 Exploring cloud-based data engineering technologies.
 Developing Python applications, automation tools and APIs.
 
-
-
 ## 🎯 Areas of Interest
 Business Intelligence & Data Analytics
 Data Engineering & Cloud Technologies
@@ -29,7 +27,6 @@ Python Development & Automation
 Database Design & Optimization
 Android Application Development
 Open-source Projects
-
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabujdip01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabujdip01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabujm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sabuj-Mondal-17) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18067775) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sabujdip01) 
@@ -50,6 +47,3 @@ Open-source Projects
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabujdip01&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sabujdip01&icon=7&color=11)](https://visitcount.itsvg.in)

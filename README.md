@@ -1,5 +1,48 @@
 # 💫 About Me:
-Hi, I'm Sabuj Mondal 👋<br><br>I'm a Power BI Developer at Tata Consultancy Services (TCS), focused on data analytics, business intelligence, and SQL. I enjoy transforming data into meaningful insights, building practical solutions, and exploring technologies that make work smarter and more efficient.<br><br>My technical interests include Power BI, SQL, Python, Power Automate, SAP FICO, software testing, and automation. I also enjoy developing personal projects using Python and Kotlin, including Android applications and Telegram bots.<br><br>I'm passionate about continuous learning, solving problems, and turning ideas into useful applications.<br><br>Always exploring, learning, and building. 🚀
+Hi, I'm Sabuj Mondal 👋 Data Analyst | BI Developer | Data Engineering Enthusiast
+
+I'm a Data Analyst at Tata Consultancy Services (TCS) with 6+ years of professional experience, specializing in Business Intelligence, Data Analytics, SQL, and data-driven solutions. I enjoy transforming complex data into meaningful insights through interactive dashboards, efficient data models, advanced SQL queries, and scalable data processing solutions. My experience spans Banking, Financial Services & Insurance (BFSI) and Retail industries.
+
+🚀 Technical Expertise
+
+Business Intelligence: Power BI, DAX, Power Query
+Programming: Python, SQL
+Data Engineering: ETL, Azure Databricks, Apache Spark
+Data Modelling: Dimensional Modelling, Relational Modelling
+Databases: Microsoft SQL Server, Amazon Redshift, Oracle, MySQL, Azure SQL
+Cloud: Microsoft Azure
+
+💻 What I Work On
+Developing interactive Power BI dashboards and business reports.
+Writing complex and optimized SQL queries.
+Building analytical data models and DAX calculations.
+Designing ETL and data transformation workflows.
+Exploring cloud-based data engineering technologies.
+Developing Python applications, automation tools and APIs.
+
+🛠️ Featured Projects
+
+TrueDistance: GPS-based Android application built with Kotlin.
+
+Telegram Antakshari Bot: Interactive Telegram game developed using Python.
+
+Telegram Group Exporter: Telegram automation and data extraction tool.
+
+Explore my repositories to see more of my work.
+
+🎯 Areas of Interest
+
+Business Intelligence & Data Analytics
+
+Data Engineering & Cloud Technologies
+
+Python Development & Automation
+
+Database Design & Optimization
+
+Android Application Development
+
+Open-source Projects
 
 
 ## 🌐 Socials:
